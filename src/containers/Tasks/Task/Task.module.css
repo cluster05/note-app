@@ -1,0 +1,8 @@
+.Task {
+}
+.CLOSE {
+  display: none;
+}
+.Task:hover .CLOSE {
+  display: block;
+}
